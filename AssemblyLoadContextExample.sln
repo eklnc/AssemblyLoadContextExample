@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationDomainExample", "ApplicationDomainExample\ApplicationDomainExample.csproj", "{C8B7116E-2869-4062-B573-73088D661824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssemblyLoadContextExample", "AssemblyLoadContextExample\AssemblyLoadContextExample.csproj", "{C8B7116E-2869-4062-B573-73088D661824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application_A", "Plugin_A\Application_A.csproj", "{00044158-6516-4FA5-819D-C782A9E4595A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application_A", "Application_A\Application_A.csproj", "{00044158-6516-4FA5-819D-C782A9E4595A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application_B", "Plugin_B\Application_B.csproj", "{C30BCCFD-4B9E-4C85-8396-5DEE68B2743A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application_B", "Application_B\Application_B.csproj", "{C30BCCFD-4B9E-4C85-8396-5DEE68B2743A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

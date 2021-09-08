@@ -10,7 +10,7 @@ namespace ApplicationDomainExample
 	{
 		private static readonly Dictionary<string, IPlugin> Plugins = new Dictionary<string, IPlugin>();
 
-		private static string PluginPath => @"C:\Users\emirk\Desktop\NETCORE-ApplicationDomainExample\ApplicationDomainExample\Plugins";
+		private static string PluginPath => @"C:\git\AssemblyLoadContextExample\AssemblyLoadContextExample\Plugins";
 
 		static void Main(string[] args)
 		{
